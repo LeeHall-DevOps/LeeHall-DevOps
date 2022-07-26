@@ -1,6 +1,6 @@
-<p align="center">
-# Welcome to my GitHub page!
-</p>
+
+# <p align="center">Welcome to my GitHub page!</p>
+
 
 [<p align="center">
     <img src="./Images/linkedIn-logo.jpg" width="150">](https://www.linkedin.com/in/lee-hall-833b8419b/)
