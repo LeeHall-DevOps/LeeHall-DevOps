@@ -1,5 +1,6 @@
 # Welcome to my GitHub page!
 
+[<img src="../Images/linkedIn-logo.jpg" width="150">](https://www.linkedin.com/in/lee-hall-833b8419b/)
 
 
 ## Technical Skills and Experience
