@@ -6,8 +6,22 @@
     <img src="./Images/linkedIn-logo.jpg" width="150">](https://www.linkedin.com/in/lee-hall-833b8419b/)
 </p>
 
+Currently working towards AWS Cloud Practitioner Certification 
+
 
 ## <p align="center"> Technical Skills and Experience</p>
+
+<button class="button" style="background-color: yellow">
+<img src="./Images/Linux_Logo.jpg" width="50"> 
+
+<b>Linux</b>
+</img>
+
+
+</button>
+
+
+
 
 
 
