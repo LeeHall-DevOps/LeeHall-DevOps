@@ -7,7 +7,7 @@
 </p>
 
 
-<p align="center">## Technical Skills and Experience</p>
+## <p align="center"> Technical Skills and Experience</p>
 
 
 
