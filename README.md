@@ -16,8 +16,6 @@ Currently working towards AWS Cloud Practitioner Certification
 
 <b>Linux</b>
 </img>
-
-
 </button>
 
 
