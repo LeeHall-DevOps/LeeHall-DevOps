@@ -1,5 +1,5 @@
 
-# <p align="center">Welcome to my GitHub page!</p>
+# <p align="center">**Welcome to my GitHub page!**</p>
 
 
 [<p align="center">
@@ -9,14 +9,12 @@
 Currently working towards AWS Cloud Practitioner Certification 
 
 
-## <p align="center"> Technical Skills and Experience</p>
+## <p align="center">**Technical Skills and Experience**</p>
 
-<button class="button" style="background-color: yellow">
-<img src="./Images/Linux_Logo.jpg" width="50"> 
 
-<b>Linux</b>
-</img>
-</button>
+<img src="./Images/linuxlogo1.jpg" width="150" style="background-color: white"/> 
+
+
 
 
 
