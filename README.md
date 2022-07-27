@@ -3,7 +3,7 @@
 
 
 [<p align="center">
-    <img src="./Images/linkedIn-logo.jpg" width="150">](https://www.linkedin.com/in/lee-hall-833b8419b/)
+    <img src="./Images/LinkedIn-logo.jpg" width="150">](https://www.linkedin.com/in/lee-hall-833b8419b/)
 </p>
 
 Currently working towards AWS Cloud Practitioner Certification 
