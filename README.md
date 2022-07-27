@@ -13,7 +13,7 @@ Currently working towards AWS Cloud Practitioner Certification
 
 
 <img src="./Images/linuxlogo1.jpg" width="150"/> 
-
+<img src="./Images/python-logo.jpg" width="150"/> 
 
 
 
