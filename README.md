@@ -12,10 +12,10 @@ Currently working towards AWS Cloud Practitioner Certification
 ## <p align="center">**Technical Skills and Experience**</p>
 
 
-<img src="./Images/linuxlogo1.jpg" width="75" height="75"/> 
-<img src="./Images/new-python-logo.jpg" width="75" height="75"/> 
-
-
+<img src="./Images/linuxlogo1.jpg" width="50" height="50"/> 
+<img src="./Images/python-logo.jpg" width="50" height="50"/> 
+<img src="./Images/AWS-logo1.jpg" width="50" height="50"/> 
+<img src="./Images/Docker-logo.jpg" width="50" height="50"/> 
 
 
 
