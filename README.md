@@ -12,7 +12,7 @@ Currently working towards AWS Cloud Practitioner Certification
 ## <p align="center">**Technical Skills and Experience**</p>
 
 
-<img src="./Images/linuxlogo1.jpg" width="50" height="50"/><img src="./Images/python-logo.jpg" width="50" height="50"/><img src="./Images/AWS-logo1.jpg" width="50" height="50"/><img src="./Images/Docker-logo.jpg" width="50" height="50"/><img src="./Images/kubernetes-logo.jpg" width="50" height="50"/><img src="./Images/vagrant-logo.jpg" width="50" height="50"/><img src="./Images/ubuntu-logo.jpg" width="50" height="50"/><img src="./Images/agile-logo.jpg" width="50" height="50"/><img src="./Images/scrum-logo.jpg" width="50" height="50"/><img src="./Images/Ansible_logo.jpg" width="50" height="50"/><img src="./Images/terraform-logo.jpg" width="50" height="50"/><img src="./Images/microsoft-windows-logo1.jpg" width="50" height="50"/><img src="./Images/jenkins-logo.jpg" width="50" height="50"/>
+<img src="./Images/linuxlogo1.jpg" width="50" height="50"/><img src="./Images/python-logo.jpg" width="50" height="50"/><img src="./Images/AWS-logo1.jpg" width="50" height="50"/><img src="./Images/Docker-logo.jpg" width="50" height="50"/><img src="./Images/kubernetes-logo.jpg" width="50" height="50"/><img src="./Images/vagrant-logo1.jpg" width="50" height="50"/><img src="./Images/ubuntu-logo.jpg" width="50" height="50"/><img src="./Images/agile-logo1.jpg" width="50" height="50"/><img src="./Images/scrum-logo.jpg" width="50" height="50"/><img src="./Images/Ansible_logo.jpg" width="50" height="50"/><img src="./Images/terraform-logo.jpg" width="50" height="50"/><img src="./Images/microsoft-windows-logo1.jpg" width="50" height="50"/><img src="./Images/jenkins-logo.jpg" width="50" height="50"/>
 
 
 
